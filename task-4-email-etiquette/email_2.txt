@@ -1,0 +1,6 @@
+# Email 2: Expressing Interest in a Summer Internship 
+
+Subject: Summer Internship Inquiry - (Your Name) - (Your Branch/Year)
+Greeting: Respected Internship Coordinator,
+Body: I am a (Year) student pursuing a B.Tech in (Branch) at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with (Company Name). Having followed your recent work in (mention a specific company project or field), I am eager to apply my skills in (mention 1-2 skills, e.g., Python, UI/UX Design) to contribute to your team. I have attached my resume for your review and would appreciate the chance to discuss how I can add value to your organization.
+Sign-off: Best regards, (Your Name)
