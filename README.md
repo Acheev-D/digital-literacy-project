@@ -38,7 +38,7 @@ Researched a case study on **Cyberbullying and Identity Faking** and created a c
 
 ---
 
-## [cite_start]Repository Structure
+## Repository Structure
 * `report/`: Final Project Report (.pdf)
 * `task-1-presentation/`: Awareness Infographic
 * `task-2-portfolio/`: Platform Profile Screenshots
