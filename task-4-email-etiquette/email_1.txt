@@ -1,7 +1,7 @@
 # Email 1: Requesting an Assignment Extension 
 
 Subject: Extension Request: (Course Name/Code) - (Your Name) - (Reg No.)
-Greeting: Dear Professor (Name),
+Greeting: Respected Professor (Name),
 Body: I am writing to respectfully request a brief extension on the upcoming submission deadline for (Assignment Name), currently due on (Date). Due to (mention a brief, valid reason like a technical issue or medical emergency), I require additional time to ensure the quality of my work meets the course standards. I would be very grateful if you could grant me an extension until (Proposed New Date).
 Sign-off: Thank you for your time and consideration.
 Sincerely, (Your Name)
